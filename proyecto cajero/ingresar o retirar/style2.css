@@ -1,0 +1,373 @@
+.container {
+    background-color: red;
+    display: flex;
+}
+
+.navbar-bg-body-tertiary {
+    background-color: red;
+}
+
+#santander {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+}
+
+#monto00 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 220px;
+}
+
+#imagen99 {
+    border-radius: 5px;
+    margin-top: 3px;
+
+}
+
+.dinero1 {
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    color: white;
+
+
+}
+
+
+#suma {
+    display: flex;
+    justify-content: left;
+    margin-left: 150px;
+    border: solid 3px;
+    margin-right: 190px;
+    margin-top: 20px;
+    padding: 15px;
+    padding-bottom: 40px;
+
+}
+
+#root {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+#ingresofoto {
+    display: flex;
+    margin-right: 20px;
+    width: 400px;
+    height: 350px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+
+
+}
+
+#foto00 {
+    display: flex;
+    margin-top: -10px;
+    margin-left: 550px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#dinero0 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-right: 190px;
+    margin-top: -380px;
+    border: solid 3px;
+    padding: 50px;
+}
+
+
+
+
+
+#dinero4 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: -30px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#dinero5 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#dinero6 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#dinero7 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#dinero8 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#dinero9 {
+    display: flex;
+    margin-left: -40px;
+    margin-right: 550px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+#restar {
+    display: flex;
+    justify-content: left;
+    margin-left: 150px;
+    border: solid 3px;
+    margin-right: 190px;
+    margin-top: 20px;
+    padding: 15px;
+    padding-bottom: 40px;
+
+}
+
+
+#root2 {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+
+#subtitulo5 {
+    display: flex;
+
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+#boton5 {
+    display: flex;
+    margin-left: 1070px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -120px;
+
+}
+
+#boton6 {
+    display: flex;
+    margin-left: 1070px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -120px;
+
+}
+
+#boton7 {
+    display: flex;
+    margin-left: 1070px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -120px;
+
+}
+
+#numero2 {
+    height: 60px;
+    width: 200px;
+
+}
+
+#numero3 {
+    height: 60px;
+    width: 200px;
+
+}
+
+
+
+
+
+#boton55 {
+    display: flex;
+    margin-left: 1050px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -450px;
+
+
+}
+#boton66 {
+    display: flex;
+    margin-left: 1050px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -450px;
+
+
+}
+#boton77 {
+    display: flex;
+    margin-left: 1050px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 140px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -450px;
+
+
+}
+
+#saldo00 {
+
+    display: flex;
+    justify-content: center;
+    border: solid 3px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 450px;
+    padding-bottom: 200px;
+    background-color: red;
+
+}
+
+#h33 {
+    display: flex;
+    margin-top: 70px;
+    margin-left: -80px;
+    color: white;
+}
+
+#saldoboton {
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 60px;
+
+}
+
+#resultado {
+    display: flex;
+    margin-top: -210px;
+    margin-left: 5px;
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+
+#resultado1 {
+    display: flex;
+    margin-top: -210px;
+    margin-left: 550px;
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+
+
+#resultado00 {
+    display: flex;
+    margin-top: -210px;
+    margin-left: 565px;
+    color: white;
+ 
+}
+#resultado11 {
+    display: flex;
+    margin-top: -210px;
+    margin-left: 565px;
+    color: white;
+ 
+}
+#resultado22 {
+    display: flex;
+    margin-top: -210px;
+    margin-left: 565px;
+    color: white;
+ 
+}

@@ -1,0 +1,282 @@
+.body {
+    background-color: white;
+}
+
+
+
+#flex {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagen {
+    margin-top: 60px;
+    border-radius: 5px;
+}
+
+
+#rut {
+    display: flex;
+    margin: 8px 0;
+    font-size: 15px;
+    width: 180px;
+    height: 25px;
+}
+
+#contraseña {
+    display: flex;
+    margin: 8px 0;
+    font-size: 15px;
+    width: 180px;
+    height: 25px;
+}
+
+#boton0 {
+    display: flex;
+    margin: 8px 0;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#titulo {
+    display: flex;
+    color: black;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+#button {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 1000px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.fila1 {
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    border: solid 1px;
+    padding: 15px;
+    margin-left: 210px;
+    margin-right: 250px;
+
+}
+
+#subtitulo1 {
+    display: flex;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+#boton1 {
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.cuadrado1 {
+    padding: 15px;
+    background-color: white;
+    border: solid 3px black;
+    margin-right: 15px;
+    margin-top: 6px;
+    margin-left: 340px;
+}
+
+
+.cuadrado2 {
+    padding: 15px;
+    background-color: white;
+    border: solid 3px black;
+    margin-right: 350px;
+    margin-top: 6px;
+    margin-left: 150px;
+}
+
+#subtitulo2 {
+    display: flex;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+
+#boton2 {
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.fila2 {
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    border: solid 1px;
+    padding: 15px;
+    margin-left: 210px;
+    margin-right: 250px;
+
+}
+
+#subtitulo3 {
+    display: flex;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#boton3 {
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.cuadrado3 {
+    padding: 15px;
+    background-color: white;
+    border: solid 3px black;
+    margin-right: 15px;
+    margin-top: 6px;
+    margin-left: 340px;
+}
+
+.cuadrado4 {
+    padding: 15px;
+    background-color: white;
+    border: solid 3px black;
+    margin-right: 350px;
+    margin-top: 6px;
+    margin-left: 150px;
+}
+
+#subtitulo4 {
+    display: flex;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+
+#boton4 {
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    width: 180px;
+    height: 35px;
+    background: red;
+    color: #fff;
+    border: 0;
+    border-radius: 75pt;
+    padding: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.container {
+    background-color: red;
+    display: flex;
+}
+
+.navbar-bg-body-tertiary {
+    background-color: red;
+}
+
+#santander {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+}
+
+#imagen99 {
+    border-radius: 5px;
+    margin-top: 3px;
+
+}
+
+
+#root {
+    display: flex;
+    margin-top: 3px;
+    color: red;
+    padding: 5px;
+}
+
+#root0 {
+    margin-top: 3px;
+    display: flex;
+    color: red;
+    padding: 5px;
+}
